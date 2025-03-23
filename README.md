@@ -27,8 +27,7 @@
 ### 🌟 Portfolio
 Check out my portfolio showcasing some of my projects and work:
 
-- **Portfolio Website**: [chaimaalachhab.com](https://chaimaalachhab.com)
-- **GitHub Projects**: [Chaimaa's GitHub](https://github.com/chaimaalachhab)
+- **Portfolio Website**: [chaimaalachhab.com](https://chaimaa-lachhab.netlify.app)
 
 ---
 
