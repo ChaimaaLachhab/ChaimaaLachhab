@@ -31,7 +31,7 @@ Check out my portfolio showcasing some of my projects and work:
 
 ---
 
-#3 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👩‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
